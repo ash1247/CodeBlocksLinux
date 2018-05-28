@@ -1,0 +1,9 @@
+#include <iostream>
+#include "/pers/ash1247/Documents/CodeBlocks/C++ Primer/ch6/chapter6.h"
+
+int main()
+{
+    std::cout << fact(3) << std::endl;
+    return 0;
+}
+
