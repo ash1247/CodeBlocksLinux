@@ -1,0 +1,27 @@
+This is a test for same words occurs on the same line.
+asdad
+asd
+asd
+asd
+as
+da
+sd
+as
+dasdsadas asdasda sd
+sa dssd asa asa asa asa
+And different line.
+asdasd asd
+asd
+asd
+as
+das
+d
+asd
+as
+da
+d
+asd
+as
+fa
+f
+asf

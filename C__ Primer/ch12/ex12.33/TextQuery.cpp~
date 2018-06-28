@@ -1,0 +1,9 @@
+/* Copyright of Ashikul Hosen
+   Solution of C++ Primer ex 12.33 */
+
+#include <sstream>
+#include "TextQuery.h"
+#include "QueryResult.h"
+#include "StrBlob.h"
+#include "StrBlobPtr.h"
+

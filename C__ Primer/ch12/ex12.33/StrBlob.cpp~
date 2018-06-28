@@ -1,0 +1,7 @@
+/* Copyright of Ashikul Hosen
+   Solution of C++ Primer ex 12.33 */
+
+#include "StrBlob.h"
+#include "StrBlobPtr.h"
+#include "ConstStrBlobPtr.h"
+

@@ -1,0 +1,11 @@
+/* Copyright of Ashikul Hosen */
+#include<iostream>
+#include<vector>
+
+std::vector<int> *factory_veci() {
+  return new std::vector<int>;
+}
+
+void set_veci(std::vector<int> *vip) {
+  for (int i; std::cin >> i; vip->push_back(i)) {}
+}

@@ -1,0 +1,15 @@
+/* Copyright of Ashikul Hosen
+ Solution of C++ Primer Exercise 11.15
+*/
+#include <iostream>
+#include <vector>
+#include <map>
+
+int main(int argc, char *argv[]) {
+  int m;
+  using std::map map;
+  using std::vector vector;
+  map<int, vector<int>>::value_type v1;
+  std::cout << to_string(v1) << std::endl;
+  return 0;
+}
