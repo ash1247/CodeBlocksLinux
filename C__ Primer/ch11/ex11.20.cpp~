@@ -1,9 +1,0 @@
-/* Copyright of Ashikul Hosen
-   C++ Primer Exercise 11.20 */
-
-#include <iostream>
-#include <map>
-#include <set>
-#include <vector>
-#include <iterator>
-#include <fstream>
